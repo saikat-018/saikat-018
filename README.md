@@ -33,5 +33,4 @@
 ## ⚡ Fun Fact  
 _"Code is like humor. When you have to explain it, it’s bad."_ 😄  
 
----
-✨ _Generated dynamically with ❤️ for my GitHub profile_
+
